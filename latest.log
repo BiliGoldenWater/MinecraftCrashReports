@@ -1,0 +1,274 @@
+[22:03:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:03:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:03:30] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[22:03:30] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_201, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_201
+[22:03:33] [main/INFO] [FML]: Searching I:\1.12.2sponge[插件整合]\.\mods for mods
+[22:03:33] [main/WARN] [FML]: The coremod me.towdium.jecharacters.core.JechCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:03:33] [main/WARN] [FML]: The coremod JechCore (me.towdium.jecharacters.core.JechCore) is not signed!
+[22:03:34] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[22:03:34] [main/INFO] [FML]: Loading tweaker codechicken.asm.internal.Tweaker from ChickenASM-1.12-1.0.2.7.jar
+[22:03:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-0.3.3.22.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:03:34] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:03:34] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[22:03:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.5-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:03:34] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:03:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:03:34] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:03:34] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[22:03:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:03:34] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:03:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:03:34] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:03:34] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
+[22:03:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.12.1-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:03:34] [main/WARN] [FML]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:03:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SmoothFont-mc1.12.2-1.16.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:03:34] [main/WARN] [FML]: The coremod bre.smoothfont.asm.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:03:34] [main/WARN] [FML]: The coremod CorePlugin (bre.smoothfont.asm.CorePlugin) is not signed!
+[22:03:34] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from VanillaFix-1.0.10-99.jar
+[22:03:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in 【mek】Mekanism-1.12.2-9.8.1.383.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:03:34] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:03:34] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[22:03:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in 【星辉】astralsorcery-1.12.2-1.10.20.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:03:34] [main/WARN] [FML]: The coremod hellfirepvp.astralsorcery.core.AstralCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:03:34] [main/INFO] [Astral Core]: [AstralCore] Initialized.
+[22:03:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in 【维度世界核心】Aroma1997Core-1.12.2-2.0.0.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:03:34] [main/WARN] [FML]: The coremod aroma1997.core.coremod.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:03:34] [main/WARN] [FML]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:03:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:03:34] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[22:03:34] [main/INFO] [LaunchWrapper]: Loading tweak class name codechicken.asm.internal.Tweaker
+[22:03:34] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[22:03:34] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[22:03:34] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/I:/1.12.2sponge%5B插件整合%5D/./mods/VanillaFix-1.0.10-99.jar Service=LaunchWrapper Env=SERVER
+[22:03:34] [main/INFO] [VanillaFix]: Initializing VanillaFix
+[22:03:35] [main/INFO] [VanillaFix]: Initializing StacktraceDeobfuscator
+[22:03:35] [main/INFO] [VanillaFix]: Downloading MCP method mappings to: methods-stable_39.csv
+[22:03:38] [main/INFO] [VanillaFix]: Done initializing StacktraceDeobfuscator
+[22:03:38] [main/INFO] [VanillaFix]: Initializing Bug Fix Mixins
+[22:03:38] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[22:03:38] [main/INFO] [VanillaFix]: Initializing Crash Fix Mixins
+[22:03:38] [main/INFO] [VanillaFix]: Initializing Profiler Improvement Mixins
+[22:03:38] [main/INFO] [VanillaFix]: Initializing Texture Fix Mixins
+[22:03:38] [main/INFO] [VanillaFix]: Initializing Mod Support Mixins
+[22:03:38] [main/WARN] [FML]: The coremod VanillaFixLoadingPlugin (org.dimdev.vanillafix.VanillaFixLoadingPlugin) is not signed!
+[22:03:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:03:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:03:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:03:38] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[22:03:38] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[22:03:38] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[22:03:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:40] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:03:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:40] [main/WARN] [jecharacters]: Caught an exception when fetching online data.
+[22:03:40] [main/INFO] [jecharacters]: Starting generating pattern
+[22:03:40] [main/INFO] [jecharacters]: Starting loading pinyin data
+[22:03:40] [main/INFO] [jecharacters]: Finished loading pinyin data
+[22:03:40] [main/INFO] [jecharacters]: Finished generating pattern
+[22:03:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:40] [main/INFO] [SmoothFontCore ASM]: OptiFine was detected.
+[22:03:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:40] [main/INFO] [Aroma1997Core]: Finished data injection.
+[22:03:40] [main/INFO] [Aroma1997Core]: Finished data injection.
+[22:03:40] [main/INFO] [LaunchWrapper]: Calling tweak class codechicken.asm.internal.Tweaker
+[22:03:40] [main/INFO] [STDOUT]: [codechicken.asm.internal.Tweaker:injectIntoClassLoader:30]: false
+[22:03:40] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[22:03:40] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@7772054c
+[22:03:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:40] [main/WARN] [OpenMods]: openmods.config.simple.ConfigProcessor.process(ConfigProcessor.java:117): Adding new values: '[hook_pre_world_rendering, llama_null_fix, activate_player_render_hook, horse_base_null_fix, horse_null_fix]'
+[22:03:40] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[22:03:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:03:40] [main/INFO] [Astral Core]: [AstralTransformer] Loading patches...
+[22:03:40] [main/INFO] [Astral Core]: [AstralTransformer] Found 0 Transformers! Trying to recover with direct references...
+[22:03:40] [main/INFO] [Astral Core]: [AstralTransformer] Initialized! Loaded 14 class patches!
+[22:03:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:03:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:03:41] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:03:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:03:41] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:03:41] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[22:03:41] [main/INFO] [Astral Core]: [AstralTransformer] Transforming alm : net.minecraft.enchantment.EnchantmentHelper with 1 patches!
+[22:03:41] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELS
+[22:03:41] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:137]: Spliced in METHOD: net.minecraft.world.chunk.BlockStateContainer.func_186018_a
+[22:03:41] [main/WARN] [mixin]: Error loading class: net/minecraft/server/integrated/IntegratedServer (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@769a58e5 from coremod FMLCorePlugin)
+[22:03:41] [main/WARN] [mixin]: @Mixin target net.minecraft.server.integrated.IntegratedServer was not found mixins.vanillafix.crashes.json:MixinIntegratedServer
+[22:03:41] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:137]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[22:03:41] [main/INFO] [Astral Core]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[22:03:41] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHSUNBRIGHTNESSWORLDCLIENT as it can't be applied for side SERVER
+[22:03:41] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[22:03:41] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:124]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[22:03:41] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:161]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[22:03:41] [main/INFO] [Astral Core]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[22:03:41] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHSUNBRIGHTNESSWORLDCLIENT as it can't be applied for side SERVER
+[22:03:41] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[22:03:41] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:124]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[22:03:41] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:161]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[22:03:41] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:62]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[22:03:41] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.player.EntityPlayer finished, added func_184613_cA() overriding EntityLivingBase
+[22:03:41] [main/INFO] [Astral Core]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 4 patches!
+[22:03:41] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHAPPLYPOTIONEFFECTEVENT
+[22:03:41] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
+[22:03:41] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYLIVINGBASEWATERSLOWDOWN
+[22:03:41] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSETPLAYERATTRIBUTE
+[22:03:41] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:03:41] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[22:03:41] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[22:03:42] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[22:03:42] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:137]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[22:03:42] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:137]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[22:03:42] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:137]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[22:03:42] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:184]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[22:03:42] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:184]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[22:03:42] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:137]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[22:03:42] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:184]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[22:03:42] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:184]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[22:03:42] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:137]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[22:03:42] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:137]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[22:03:42] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[22:03:42] [main/INFO] [Astral Core]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 2 patches!
+[22:03:42] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIP as it can't be applied for side SERVER
+[22:03:42] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIPEVENT as it can't be applied for side SERVER
+[22:03:42] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:137]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[22:03:42] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:137]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[22:03:42] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[22:03:42] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
+[22:03:42] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[22:03:42] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[22:03:42] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[22:03:43] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.player.EntityPlayer finished, added func_184613_cA() overriding EntityLivingBase
+[22:03:43] [main/INFO] [Astral Core]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 4 patches!
+[22:03:43] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHAPPLYPOTIONEFFECTEVENT
+[22:03:43] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
+[22:03:43] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYLIVINGBASEWATERSLOWDOWN
+[22:03:43] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSETPLAYERATTRIBUTE
+[22:03:43] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:62]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[22:03:43] [main/INFO] [Astral Core]: [AstralTransformer] Transforming wg : net.minecraft.entity.ai.attributes.AbstractAttributeMap with 1 patches!
+[22:03:43] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHADDPLAYERATTRIBUTE
+[22:03:43] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:124]: Added INTERFACE: pl/asie/foamfix/api/IFoamFixMobSpawnerLogic
+[22:03:43] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:137]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
+[22:03:43] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:184]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
+[22:03:43] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:184]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCachePESize
+[22:03:43] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:184]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
+[22:03:43] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:184]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCache
+[22:03:43] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:184]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCacheTime
+[22:03:43] [main/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.entity.ai.EntityAICreeperSwell], Method [func_75246_d]
+[22:03:43] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.ai.EntityAICreeperSwell Finished.
+[22:03:44] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
+[22:03:44] [main/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
+[22:03:44] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.inventory.ContainerFurnace Finished.
+[22:03:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:03:45] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[22:03:45] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:03:45] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:03:45] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:03:46] [Server thread/INFO] [FML]: Searching I:\1.12.2sponge[插件整合]\.\mods for mods
+[22:03:46] [Server thread/INFO] [FML]: Disabling mod item_search it is client side only.
+[22:03:47] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.54.838
+[22:03:47] [Server thread/WARN] [FML]: Mod enderstorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.5.135
+[22:03:47] [Server thread/INFO] [FML]: Disabling mod i18nmod it is client side only.
+[22:03:48] [Server thread/WARN] [FML]: Mod aromabackup is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.1.1.4
+[22:03:48] [Server thread/WARN] [FML]: Mod aromabackuprecovery is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.1.1.4
+[22:03:48] [Server thread/WARN] [FML]: Mod botanianeedsit is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-3.0-release
+[22:03:48] [Server thread/INFO] [FML]: Disabling mod controlling it is client side only.
+[22:03:48] [Server thread/WARN] [FML]: Mod cookingforblockheads is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 6.4.71
+[22:03:48] [Server thread/INFO] [FML]: Disabling mod ctgui it is client side only.
+[22:03:48] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[22:03:48] [Server thread/INFO] [FML]: Disabling mod custommainmenu it is client side only.
+[22:03:49] [Server thread/WARN] [FML]: Mod microblockcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.0.79
+[22:03:50] [Server thread/WARN] [FML]: Mod forgemultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.0.79
+[22:03:50] [Server thread/WARN] [FML]: Mod minecraftmultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.0.79
+[22:03:50] [Server thread/INFO] [FML]: Disabling mod jeresources it is client side only.
+[22:03:50] [Server thread/WARN] [FML]: Mod mtrm is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.2.30
+[22:03:51] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
+[22:03:51] [Server thread/INFO] [FML]: Disabling mod resourceloader it is client side only.
+[22:03:52] [Server thread/INFO] [FML]: Disabling mod smoothfont it is client side only.
+[22:03:52] [Server thread/WARN] [FML]: Mod tcinventoryscan is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.10
+[22:03:52] [Server thread/WARN] [FML]: Mod vanillafix is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.10-SNAPSHOT
+[22:03:52] [Server thread/WARN] [FML]: Mod voidislandcontrol is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.5.3
+[22:03:53] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.1.383
+[22:03:53] [Server thread/WARN] [FML]: Mod aroma1997sdimension is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.0.2
+[22:03:54] [Server thread/WARN] [FML]: Mod aroma1997core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.0.2
+[22:03:54] [Server thread/INFO] [FML]: Disabling mod jehc it is client side only.
+[22:03:54] [Server thread/INFO] [FML]: Disabling mod thaumicjei it is client side only.
+[22:03:54] [Server thread/INFO] [FML]: Forge Mod Loader has identified 140 mods to load
+[22:03:55] [Server thread/INFO] [FML]: Found mod(s) [p455w0rdslib] containing declared API package moze_intel.projecte.api (owned by projecte) without associated API reference
+[22:03:55] [Server thread/INFO] [FML]: Found mod(s) [projecte] containing declared API package moze_intel.projecte.api (owned by ProjectE) without associated API reference
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for pseudo: assets/pseudo/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for instantunify: assets/instantunify/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for ccm: assets/ccm/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for chameleon: assets/chameleon/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for cofhcore: assets/cofhcore/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for crafttweaker: assets/crafttweaker/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for crafttweakerjei: assets/crafttweakerjei/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for fastleafdecay: assets/fastleafdecay/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for foamfix: assets/foamfix/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for microblockcbe: assets/microblockcbe/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for forgemultipartcbe: assets/forgemultipartcbe/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for minecraftmultipartcbe: assets/minecraftmultipartcbe/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for gardenofglass: assets/gardenofglass/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for mcjtylib_ng: assets/mcjtylib_ng/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for mcmultipart: assets/mcmultipart/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for mtrm: assets/mtrm/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for modtweaker: assets/modtweaker/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for mtlib: assets/mtlib/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for mystagradcompat: assets/mystagradcompat/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for p455w0rdslib: assets/p455w0rdslib/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
+[22:03:55] [Server thread/WARN] [FML]: Missing English translation for spawncommands: assets/spawncommands/lang/en_us.lang
+[22:03:56] [Server thread/WARN] [FML]: Missing English translation for universalmodifiers: assets/universalmodifiers/lang/en_us.lang
+[22:03:56] [Server thread/WARN] [FML]: Missing English translation for mekanismgenerators: assets/mekanismgenerators/lang/en_us.lang
+[22:03:56] [Server thread/FATAL] [FML]: net.minecraftforge.fml.common.MissingModsException: Mod enderstorage (EnderStorage) requires [codechickenlib@[3.2.1,)]
+[22:03:56] [Server thread/FATAL] [FML]: net.minecraftforge.fml.common.MissingModsException: Mod avaritia (Avaritia) requires [codechickenlib@[3.1.4,)]
+[22:03:56] [Server thread/FATAL] [FML]: net.minecraftforge.fml.common.MissingModsException: Mod avaritiatweaks (Avaritia Tweaks) requires [codechickenlib]
+[22:03:56] [Server thread/FATAL] [FML]: net.minecraftforge.fml.common.MissingModsException: Mod brandonscore (Brandon's Core) requires [codechickenlib@[3.2.0,)]
+[22:03:56] [Server thread/FATAL] [FML]: net.minecraftforge.fml.common.MissingModsException: Mod forgemultipartcbe (Forge Multipart CBE) requires [codechickenlib@[3.2.2,)]
+[22:03:56] [Server thread/FATAL] [FML]: net.minecraftforge.fml.common.MissingModsException: Mod thermalexpansion (Thermal Expansion) requires [codechickenlib@[3.1.7,)]
+[22:03:56] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+net.minecraftforge.fml.common.MultipleModsErrored: 
+Missing Mods:
+	unknown : need [3.2.1,): have missing
+
+Missing Mods:
+	unknown : need [3.1.4,): have missing
+
+Missing Mods:
+	unknown : need any: have missing
+
+Missing Mods:
+	unknown : need [3.2.0,): have missing
+
+Missing Mods:
+	unknown : need [3.2.2,): have missing
+
+Missing Mods:
+	unknown : need [3.1.7,): have missing
+
+
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:300) ~[Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:572) ~[Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:125) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[22:03:56] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: I:\1.12.2sponge[插件整合]\.\crash-reports\crash-2020-05-15_22.03.56-server.txt
+[22:03:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:03:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:03:56] [Server thread/INFO] [FML]: The state engine was in incorrect state CONSTRUCTING and forced into state SERVER_STOPPED. Errors may have been discarded.
+[22:03:56] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:03:56] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
